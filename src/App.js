@@ -1,3 +1,4 @@
+import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -18,6 +19,8 @@ function App() {
           Learn React
         </a>
         <h1>Hello Github</h1>
+        <h2>Hello bhargav</h2>
+        <p>this is sample</p>
       </header>
     </div>
   );
