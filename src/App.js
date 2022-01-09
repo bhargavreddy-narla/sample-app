@@ -21,6 +21,7 @@ function App() {
         <h1>Hello Github</h1>
         <h2>Hello bhargav</h2>
         <p>this is sample</p>
+        <p>Thuis is samhitha</p>
       </header>
     </div>
   );
